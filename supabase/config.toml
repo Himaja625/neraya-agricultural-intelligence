@@ -1,0 +1,11 @@
+[functions.ai-analyze]
+verify_jwt = true
+entrypoint = "./functions/ai-analyze/index.ts"
+
+[functions.ai-chat]
+verify_jwt = true
+entrypoint = "./functions/ai-chat/index.ts"
+
+[functions.weather]
+verify_jwt = true
+entrypoint = "./functions/weather/index.ts"
