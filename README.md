@@ -589,6 +589,16 @@ The current implementation focuses on the core field intelligence workflow while
 
 ---
 
+## Documentation
+
+For the complete project documentation, including the product design,
+technical architecture, data flow, implementation details, testing,
+responsible AI approach, and future direction, see:
+
+[Neraya Project Documentation](docs/Neraya_Project_Documentation.docx)
+
+---
+
 # Author
 
 Naga Himaja Ganugapati
